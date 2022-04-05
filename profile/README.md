@@ -1,4 +1,4 @@
-We make a small game console for cognitive-motor training.
+We make a **small game console with a large controller** for cognitive-motor training.
 
 We are pragmatic users of functional programming languages (Elm, OCaml, Rust, Scala, Nix) and anything else we find useful for creating robust and maintainable systems.
 
